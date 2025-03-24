@@ -45,7 +45,7 @@
 
   <tr>
     <td>
-      <kbd>Bases de Datos</kbd>
+      <kbd>BBDD</kbd>
     </td>
     <td>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -56,7 +56,7 @@
 
   <tr>
     <td>
-      <kbd>Herramientas</kbd>
+      <kbd>Tools</kbd>
     </td>
     <td>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -76,6 +76,6 @@
   </tr>
 </table>
 
-### 📫 Contacto
+### 📫 Contact
 💼 **LinkedIn:** www.linkedin.com/in/jorge-castillo-alcántara  
 ---
